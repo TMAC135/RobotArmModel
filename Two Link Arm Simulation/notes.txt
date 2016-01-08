@@ -1,0 +1,3 @@
+It seems that friction can help with the convergence issues
+
+input that balance with gravity
